@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- LOGIN SCREEN -->
+    <!-- Logo dimensions -->
+    <dimen name="logoHeight">0dp</dimen>
+    <!-- Shape-Left dimensions -->
+    <dimen name="shapeLeftWidth">180dp</dimen>
+    <!-- Label Login dimensions -->
+    <dimen name="labelLoginMarginTop">5dp</dimen>
+    <dimen name="labelLoginMarginLeft">100dp</dimen>
+    <dimen name="labelLoginTextSize">17sp</dimen>
+    <!-- Label Sign Up dimensions -->
+    <dimen name="labelSignUpMarginTop">30dp</dimen>
+    <dimen name="labelSignUpMarginLeft">280dp</dimen>
+    <dimen name="labelSignUpTextSize">17sp</dimen>
+    <!-- Box de informacion de login -->
+    <dimen name="boxLoginWidth">400dp</dimen>
+    <dimen name="boxLoginHeight">250dp</dimen>
+    <dimen name="boxLoginMarginVertical">80dp</dimen>
+    <dimen name="boxLoginMarginLeft">30dp</dimen>
+    <dimen name="boxLoginMarginBottom">25dp</dimen>
+    <!-- Campo de Ingreso Username -->
+    <dimen name="inputUsernameLoginWidth">230dp</dimen>
+    <dimen name="inputUsernameLoginMarginLeft">20dp</dimen>
+    <dimen name="inputUsernameLoginMarginTop">22dp</dimen>
+    <!-- Campo de Ingreso Contraseña -->
+    <dimen name="inputPasswordLoginWidth">230dp</dimen>
+    <dimen name="inputPasswordLoginMarginLeft">20dp</dimen>
+    <!-- Button Login -->
+    <dimen name="buttonLoginWidth">100dp</dimen>
+    <dimen name="buttonLoginHeight">40dp</dimen>
+    <dimen name="buttonLoginTextSize">12sp</dimen>
+    <!-- Pie de pagina -->
+    <dimen name="footerLoginMarginTop">16dp</dimen>
+    <dimen name="footerLoginPadding">20dp</dimen>
+    <dimen name="labelSignUpFooterLoginMarginLeft">20dp</dimen>
+    <dimen name="labelSignUpFooterLoginTextSize">15sp</dimen>
+
+</resources>

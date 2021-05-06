@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">INTEC</string>
+    <!-- Strings related to login -->
+    <string name="LabelIniciarSesion">Iniciar Sesion</string>
+    <string name="companyName">INTEC</string>
+    <string name="username">Usuario o Email</string>
+    <string name="usernameSignUp">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="buttonLogin">Login</string>
+    <string name="dontAccount">¿No tienes una cuenta todavia?</string>
+    <string name="haveAccount">¿Ya tienes una cuenta?</string>
+    <string name="phoneNumber">Telefono</string>
+    <string name="email">Email</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="loginMay">LOG IN</string>
+    <string name="signUpMin">Sign Up</string>
+</resources>
